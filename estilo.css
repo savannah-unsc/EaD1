@@ -1,0 +1,65 @@
+*{
+margin: 0;
+}
+body{
+font-size: 18px;
+font-family: Helvetica, Arial, Calibri;
+color: #fff;
+background-color: #252525;
+}
+#title{
+text-align: center;
+}
+#destiny{
+text-align: center;
+}
+#header{
+background-color: #181818;
+width: 100%;
+height: 80px;
+text-align: center;
+align-items: center;
+}
+#footer{
+background-color: #181818;
+width: 100%;
+height: 240px;
+text-align: center;
+align-items: center;
+}
+#logo{
+height: 90%;
+}
+.legenda{
+font-size: 14px;
+font-family: Century, Times New Roman;
+color: #ccc;
+}
+.banner{
+width: 100%;
+}
+.postalCard{
+width: 85%;
+}
+.hotelpic{
+width: 28.333%;
+}
+#btnbuy{
+text-decoration: none;
+color: #fff;
+padding: 10px 60px;
+background-color: #0000;
+border: 1.5px solid #E67E22;
+border-radius: 25px;
+transition: 0.3s;
+}
+#btnbuy:hover{
+background-color: #E67E2225;
+transition: 0.3s;
+}
+.icon{
+height: 50px;
+padding-left: 0.7%;
+padding-right: 0.7%;
+text-decoration: none;
+}
